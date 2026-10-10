@@ -1,0 +1,11 @@
+/build/
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
