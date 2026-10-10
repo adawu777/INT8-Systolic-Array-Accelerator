@@ -1,4 +1,4 @@
-# 4×4 INT8 Matrix Accelerator v4.0.0
+# INT8 Systolic Array Accelerator with AXI Read DMA
 
 Fixed 4×4 INT8 A × B with signed 32-bit C results. This candidate reuses the existing Step 9H-C RTL without changes. Top module: `matrix_dma_compute_top`.
 
